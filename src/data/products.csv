@@ -1,0 +1,5 @@
+ID,Datum_von,Datum_bis,Name,KastenpreisMitPfand,FlaschenpreisMitPfand,Kastenpfand,Flaschenpfand,Trägerpfand,AnzahlFlaschen,Typ
+0.0,"02.02.2020 00:00:00","20.02.2020 20:00:00","Bier",17.5,0.8,3.1,0.08,1.5,20,bier
+0.1,"02.02.2020 00:00:00",,"Bier",18.5,0.85,3.1,0.08,1.5,20,bier
+1.0,"02.02.2020 00:00:00",,"Radler",18.1,0.83,3.1,0.08,1.5,20,radler
+2.0,"02.02.2020 00:00:00",,"Saft",10.5,0.75,3.3,0.15,1.5,12,rest

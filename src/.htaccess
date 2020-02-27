@@ -1,0 +1,7 @@
+<FilesMatch "\.htaccess|config\.ini|(.*)\.csv">
+
+    Require all denied
+
+</FilesMatch>
+
+Options -Indexes
